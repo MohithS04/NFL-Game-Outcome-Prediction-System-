@@ -36,7 +36,7 @@ A production-grade sports analytics dashboard that predicts NFL game outcomes us
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/nfl-predictor.git
+    git clone https://github.com/MohithS04/nfl-predictor.git
     cd nfl-predictor
     ```
 
