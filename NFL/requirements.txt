@@ -1,0 +1,8 @@
+streamlit
+pandas
+nfl_data_py
+scikit-learn
+joblib
+numpy
+matplotlib
+seaborn
